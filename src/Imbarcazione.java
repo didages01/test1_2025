@@ -1,4 +1,4 @@
-// ver 0
+// ver 1
 
 public class Imbarcazione {
 	private String nome;
